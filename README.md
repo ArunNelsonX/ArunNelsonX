@@ -1,6 +1,6 @@
 - 👋 Hi There!, I’m @ArunNelsonX
-- 👀 I’m interested in data science, computer vision and project & program management
-- 🌱 I’m currently learning python, more specifically in the field of data science and computer vision
+- 👀 I’m interested in generative AI, computer vision and project & program management
+- 🌱 I’m currently learning python, more specifically in the field of AI and computer vision
 - 💞️ I’m looking to collaborate on projects that are related to above
 
 <!---
